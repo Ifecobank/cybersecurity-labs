@@ -6,11 +6,12 @@ Welcome to my Packet Tracer lab portfolio.
 This folder contains my Cisco Packet Tracer networking and cybersecurity labs as I prepare for a career as a SOC Analyst.
 
 ## Labs
-- Lab 01 - Basic Router Configuration
-- Lab 02 - Switch Configuration
-- Lab 03 - IP Addressing
-- Lab 04 - Static Routing
-- Lab 05 - VLAN Configuration
-- Lab 06 - ACL Configuration
+- Lab 01 - connecting devices 
+- Lab 02 - OSI model
+- Lab 03 - Basic device security
+- Lab 04 - Ethernet lan switching 
+- Lab 05 - IPV4 Addresses
+- Lab 06 - Interface configuration
+- 
 
 I will continue updating this repository as I complete more labs.
